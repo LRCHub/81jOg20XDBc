@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "キレイだ",
+  "base_artist": "SUPER BEAVER",
+  "createdAt": "2025-12-16T06:31:07.366014Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キレイだ",
+      "artist": "Sukimaswitch",
+      "has_synced": true,
+      "path": "select/01_キレイだ_Sukimaswitch.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "キレイだ",
+      "artist": "w-inds.",
+      "has_synced": false,
+      "path": "select/02_キレイだ_w-inds..txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "キレイだ (Single Mega-Mix)",
+      "artist": "w-inds.",
+      "has_synced": true,
+      "path": "select/03_キレイだ_(Single_Mega-Mix)_w-inds..lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "キレイだ",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/04_キレイだ_SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キレイだ",
+      "artist": "SUPER BEAVER",
+      "has_synced": false,
+      "path": "select/pl_01_キレイだ_SUPER_BEAVER.txt"
+    }
+  ]
+}
